@@ -5,7 +5,7 @@
 ### Introdução ao Git e GitHub
 Projeto 1 - Contribuindo em um Projeto Open Source no GitHub
 
-Repositorio: [Dio Lab código aberto](https://github.com/K-Leite/dio-lab-open-source)
+Repositorio: [Dio Lab Open Source](https://github.com/K-Leite/dio-lab-open-source)
 
 ### Introdução a Linux e Scripts
 Projeto 2 - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
