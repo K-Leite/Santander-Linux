@@ -1,6 +1,6 @@
 # Santander-Linux
 
-## Desafios de projeto
+## Desafios de projetos
 
 ### Introdução ao Git e GitHub
 Projeto 1 - Contribuindo em um Projeto Open Source no GitHub
